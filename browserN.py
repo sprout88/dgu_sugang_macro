@@ -1,0 +1,1 @@
+print(__file__[__file__.find('browser'):__file__.find('browser')+8]+".txt")
